@@ -70,7 +70,6 @@ The script will output:
 ```
 .
 ├── data/             # Trading data (Parquet format)
-├── models/           # Storage for future models
 ├── main.py           # Main script
 ├── requirements.txt  # Python dependencies
 ├── README.md         # Project documentation
