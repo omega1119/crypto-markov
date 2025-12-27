@@ -78,6 +78,13 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Local outputs
+outputs/
+
+# Virtual environments
+.venv/
+venv/
+
 # IPython
 profile_default/
 ipython_config.py
