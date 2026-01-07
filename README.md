@@ -6,7 +6,6 @@ This project implements a **Markov-based trading strategy backtester** for analy
 - Loads and processes trading data from Parquet files.
 - Computes price velocity and assigns market states.
 - Builds a **Markov transition matrix** to predict future states.
-- Simulates trading decisions based on predicted states.
 - Simulates trading decisions based on predicted states with optional **stop-loss** and **take-profit**.
 - Evaluates performance using **ROI**, **Max Drawdown**, **Win Rate**, and **Sharpe (daily scaled)**.
 - Produces visualizations (trades, equity curve, drawdown, transition matrix heatmap, transition network).
